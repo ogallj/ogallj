@@ -91,3 +91,16 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+## 📊 GitHub Stats
+
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogallj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogallj&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ogallj&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ogallj&color=blue)
+![Followers](https://img.shields.io/github/followers/ogallj?label=Followers&style=social)
+
+
