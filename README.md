@@ -98,6 +98,8 @@ Here are some ideas to get you started:
 
 ## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogallj&layout=compact&theme=radical)
+
+## Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ogallj&theme=radical)
 
 ---
