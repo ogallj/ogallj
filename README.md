@@ -104,9 +104,11 @@ Here are some ideas to get you started:
 
 ---
 ## Profile views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ogallj&color=blue)
 
 ## Followers
+
 ![Followers](https://img.shields.io/github/followers/ogallj?label=Followers&style=social)
 
 
