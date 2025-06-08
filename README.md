@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m *Joshua Ogallo* a passionate software developer with a keen interest in building impactful solutions through technology. With a strong foundation in *Java* and Spring Boot, I’m always exploring new tools and trends like AI-driven security, cloud computing, and DevOps automation. My work centers around designing secure, efficient systems, and I’m eager to collaborate with like-minded professionals to drive innovation. Let’s connect and share ideas on making tech work smarter and safer!
+- I’m *Joshua Ogallo* a passionate software developer with a keen interest in building impactful solutions through technology. With a strong foundation in *Java* and *Spring Boot*, I’m always exploring new tools and trends like AI-driven security, cloud computing, and DevOps automation. My work centers around designing secure, efficient systems, and I’m eager to collaborate with like-minded professionals to drive innovation. Let’s connect and share ideas on making tech work smarter and safer!
 
 - 🔭 I’m currently working on: Building dynamic projects with a focus on Spring Boot and Java while exploring the latest in cloud computing and security solutions for public networks.
 - 🌱 I’m currently learning: Advancements in AI-driven cybersecurity, edge computing, and optimizing workflows with automation tools in DevOps.
