@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 - I’m *Joshua Ogallo* a passionate software developer with a keen interest in building impactful solutions through technology. With a strong foundation in *Java* and *Spring Boot*, I’m always exploring new tools and trends like AI-driven security, cloud computing, and DevOps automation. My work centers around designing secure, efficient systems, and I’m eager to collaborate with like-minded professionals to drive innovation. Let’s connect and share ideas on making tech work smarter and safer!
 
