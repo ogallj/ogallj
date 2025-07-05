@@ -1,121 +1,121 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm Joshua Ogallo</h1>
-<p align="center">💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI Explorer | 🎯 DevOps Advocate</p>
+<h1 align="center">👋 Hey there, I'm Joshua Ogallo</h1>
+<h3 align="center">💻 Software Engineer | ☁️ Cloud Enthusiast | 🤖 AI Explorer | 🎯 DevOps Advocate</h3>
+
+<p align="center">
+  <a href="https://github.com/ogallj"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code.+Cloud.+Create.;AI%2C+Automation+%26+Action.;Transforming+ideas+into+impact." alt="Typing SVG" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **software developer** with a focus on building scalable and secure applications using **Java** and **Spring Boot**. I thrive on solving complex problems at the intersection of technology, security, and user experience. My interests span across:
-
-- 🔐 **AI-powered cybersecurity**
-- ☁️ **Cloud infrastructure & automation**
-- 🧠 **Machine learning**
-- 🌍 **Tech for social impact**
+🌍 I'm a **full-stack developer** with a backend focus, passionate about solving real-world problems using **Java**, **Spring Boot**, and modern cloud-native technologies.  
+💡 I explore tech at the intersection of **AI**, **cybersecurity**, and **social impact**.  
+🎯 My mission: to **build scalable systems** that empower communities and improve digital resilience.
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Current Focus Areas
 
-- Designing robust backend systems with **Spring Boot** and **Java**
-- Exploring **cloud-native architectures** and deployment pipelines
-- Researching **AI-driven solutions** for network security and public infrastructure
-
----
-
-## 🌱 Learning Journey
-
-I'm continuously upskilling in:
-
-- 🛡️ AI-driven threat detection & anomaly monitoring
-- 🛰️ Edge and distributed computing
-- ⚙️ DevOps tools like Docker, Kubernetes, and CI/CD pipelines
+- 🔧 Building secure & scalable backends with **Spring Boot & Java**
+- ☁️ Exploring **cloud-native architectures** (AWS, GCP)
+- 🧠 Researching **AI-powered threat detection**
+- 📦 Implementing **CI/CD pipelines** and **DevOps best practices**
 
 ---
 
-## 🤝 Collaboration Opportunities
+## 🧠 Learning Journey
 
-I'm open to working on projects that:
+I'm currently diving deeper into:
 
-- Leverage **AI/ML** for real-world challenges
-- Promote **community empowerment** through tech
-- Embrace **cloud-first, scalable designs**
-- Advocate **open-source innovation**
+- 🛰️ Edge & distributed computing
+- 🔐 AI-driven cybersecurity systems
+- 🚢 Kubernetes & container orchestration
+- 📊 Observability and monitoring (Grafana, Prometheus)
+
+---
+
+## 🤝 Let's Collaborate
+
+Looking to team up on:
+
+- 🔬 AI/ML projects with real-world impact
+- ☁️ Scalable cloud-native applications
+- 🌐 Open-source initiatives
+- 👥 Community-based tech solutions
 
 ---
 
 ## 💬 Ask Me About
 
-- ⚙️ Java / Spring Boot development
-- 🛠️ Backend APIs and system design
-- ☁️ Cloud security best practices
-- 📈 Scalable deployment strategies
-- 🔍 Research in public network resilience
+- ⚙️ Java / Spring Boot development  
+- 🔐 Cloud security & backend APIs  
+- 🧱 Scalable system design  
+- 🚀 Deployment & automation workflows
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 Email: [ogallo254@gmail.com](mailto:ogallo254@gmail.com)
-- 📹 YouTube: [Dýnamis – Tech & Inspiration](https://www.youtube.com/channel/your-channel)
+<p align="left">
+  <a href="mailto:ogallo254@gmail.com"><img src="https://img.shields.io/badge/Email-ogallo254@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Ogallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/your-channel"><img src="https://img.shields.io/badge/YouTube-Dýnamis-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend
+### 🖥 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🛠 Backend & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FD6C35?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🧰 Tools & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FD6C35?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogallj&show_icons=true&theme=radical" alt="Joshua's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogallj&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ogallj&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogallj&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ogallj&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Fun Fact
 
-I believe in **tech with purpose**. I use my platform *Dýnamis* to inspire young minds, share insights on digital innovation, and discuss future tech trends 🚀
-
----
-
-## 🌟 Let’s Build Something Amazing Together!
-
-Whether you want to **collaborate**, **brainstorm ideas**, or just **connect**, feel free to reach out. Let’s harness technology for good and build solutions that matter.
-
-> *"Technology should be a bridge — not a barrier — to opportunity."*
+> “I don’t just write code — I design systems that **empower people** and **strengthen digital trust**.”  
+>  
+> 🧠 I use *Dýnamis* to educate, inspire, and drive change through open conversation about future tech.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogallj&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ogallj&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-
-
