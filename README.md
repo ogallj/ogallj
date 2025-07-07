@@ -107,7 +107,6 @@ Looking to team up on:
 </p>
 
 ---
-
 ## ✨ Fun Fact
 
 > “I don’t just write code — I design systems that **empower people** and **strengthen digital trust**.”  
