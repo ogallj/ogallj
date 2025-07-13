@@ -14,7 +14,6 @@
 🎯 My mission: to **build scalable systems** that empower communities and improve digital resilience.
 
 ---
-
 ## 🎯 Current Focus Areas
 
 - 🔧 Building secure & scalable backends with **Spring Boot & Java**
