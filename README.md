@@ -1,4 +1,4 @@
- <!-- Profile Header -->
+<!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm Joshua Ogallo</h1>
 <h3 align="center">💻 Software Engineer | ☁️ Cloud Enthusiast | 🤖 AI Explorer | 🎯 DevOps Advocate</h3>
 <p align="center">
