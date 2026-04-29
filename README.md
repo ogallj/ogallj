@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 🌍 I'm a **full-stack developer** with a backend focus, passionate about solving real-world problems using **Java**, **Spring Boot**, and modern cloud-native technologies.  
-💡 I explore tech at the intersection of **AI**, **cybersecurity**, and **social impact**.  
+💡 I explore tech at the intersection of **AI automation**, **cybersecurity**, and **social impact**.  
 🎯 My mission: to **build scalable systems** that empower communities and improve digital resilience. 
 
 ---
