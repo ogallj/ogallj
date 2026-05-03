@@ -40,7 +40,7 @@ Looking to team up on:
 
 - 🔬 AI/ML projects with real-world impact
 - ☁️ Scalable cloud-native applications
-- 🌐 Open-source initiatives
+- 🌐 Open-source initiatives.
 - 👥 Community-based tech solutions
 
 ---
