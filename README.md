@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/ogallj"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code.+Cloud.+Create.;AI%2C+Automation+%26+Action.;Transforming+ideas+into+impact." alt="Typing SVG" /></a>
 </p>
-
 ---
 
 ## 🚀 About Me
