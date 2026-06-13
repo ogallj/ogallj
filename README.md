@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-🌍 I'm a **full-stack developer** with a backend focus, passionate about solving real-world problems using **Java**, **Spring Boot**, and modern cloud-native technologies.  
+🌍 I'm a **full-stack developer** with a backend focus, passionate about solving real-world problems using **Javascript**, **Spring Boot**, and modern cloud-native technologies.  
 💡 I explore tech at the intersection of **AI automation**, **cybersecurity**, and **social impact**.  
 🎯 My mission: to **build scalable systems** that empower communities and improve digital resilience. 
 
 ---
 ## 🎯 Current Focus Areas
 
-- 🔧 Building secure & scalable backends with **Spring Boot & Java**
+- 🔧 Building secure & scalable backends with **Spring Boot & Javascript**
 - ☁️ Exploring **cloud-native architectures** (AWS, GCP)
 - 🧠 Researching **AI-powered threat detection**
 - 📦 Implementing **CI/CD pipelines** and **DevOps best practices**
@@ -46,7 +46,7 @@ Looking to team up on:
 
 ## 💬 Ask Me About
 
-- ⚙️ Java / Spring Boot development  
+- ⚙️ Javascript / Spring Boot development  
 - 🔐 Cloud security & backend APIs  
 - 🧱 Scalable system design  
 - 🚀 Deployment & automation workflows
