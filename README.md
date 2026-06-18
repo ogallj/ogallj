@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm Joshua Odero Ogallo</h1>
-<h3 align="center">💻 Software Engineer | ☁️ Cloud Enthusiast | 🤖 AI Explorer | 🎯 DevOps Advocate</h3>
+<h3 align="center">💻 Software Engineer | ☁️ Cloud Enthusiast | 🤖 AI Enthusiast | 🎯 DevOps Advocate</h3>
 <p align="center">
   <a href="https://github.com/ogallj"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code.+Cloud.+Create.;AI%2C+Automation+%26+Action.;Transforming+ideas+into+impact." alt="Typing SVG" /></a>
 </p>
