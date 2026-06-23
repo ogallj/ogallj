@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+7<!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm Joshua Odero Ogallo</h1>
 <h3 align="center">💻 Software Engineer | ☁️ Cloud Enthusiast | 🤖 AI Enthusiast | 🎯 DevOps Advocate</h3>
 <p align="center">
@@ -29,7 +29,7 @@ I'm currently diving deeper into:
 - 🛰️ Edge & distributed computing
 - 🔐 AI-driven cybersecurity systems
 - 🚢 Kubernetes & container orchestration
-- 📊 Observability and monitoring (Grafana, Prometheus)
+- 📊 Observability and monitoring 
 
 ---
 
