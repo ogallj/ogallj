@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🌍 I'm a **full-stack developer** with a backend focus, passionate about solving real-world problems using **Javascript**, **Spring Boot**, and modern cloud-native technologies.  
+🌍 I'm a **frontend developer** with a backend focus, passionate about solving real-world problems using **Javascript**, **Spring Boot**, and modern cloud-native technologies.  
 💡 I explore tech at the intersection of **AI automation**, **cybersecurity**, and **social impact**.  
 🎯 My mission: to **build scalable systems** that empower communities and improve digital resilience. 
 
