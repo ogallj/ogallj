@@ -120,7 +120,6 @@ I love turning complex business ideas into elegant digital experiences.
 - Design Systems
 - Responsive Design
 - User Research
-- Wireframing
 - Prototyping
 - Design Thinking
 
