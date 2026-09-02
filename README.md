@@ -8,6 +8,7 @@
 Hi 👋, I'm Joshua Odero Ogallo
 </h1>
 
+
 <h3 align="center">
 Frontend Software Engineer • AI Automation Engineer • UI/UX Designer • System Designer
 • Web developer</h3>
