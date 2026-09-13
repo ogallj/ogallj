@@ -45,7 +45,7 @@ Frontend Software Engineer • AI Automation Engineer • UI/UX Designer • Sys
 
 # 👨‍💻 About Me
 
-I'm a **Frontend Software Engineer** passionate about building modern applications that combine **great design**, **AI**, and **scalable engineering**.
+I'm a **Frontend Software Engineer** passionate about building modern applications that combine **great creative design**, **AI**, and **scalable engineering**.
 
 My work revolves around creating software that isn't just functional but intuitive, beautiful, and impactful.
 
