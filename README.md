@@ -1,7 +1,3 @@
-
-
-
-
 <!-- ===================================================== -->
 <!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
@@ -13,7 +9,7 @@ Hi 👋, I'm Joshua Odero Ogallo
 
 <h3 align="center">
 Frontend Software Engineer • AI Automation Engineer • UI/UX Designer • System Designer
-• Web developer • Creative Designer</h3>
+• Web developer • Digital Creative</h3>
 
 <p align="center">
 
