@@ -67,7 +67,7 @@ I love turning complex business ideas into elegant digital experiences.
 - 📱 Responsive Web Applications
 - ⚙️ Business Management Systems
 - 🌍 Social Impact Technology
-- 👾 Creative designer
+- 👾 Digital Creative
 
 ---
 
