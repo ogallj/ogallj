@@ -196,7 +196,7 @@ I believe technology should:
 
 ---
 
-# 🤝 Open to Collaborate
+# 🤝 Open to Collaboration
 
 I'm always interested in collaborating on:
 
