@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <h1 align="center">
-Hi 👋, I'm Joshua Odero Ogallo
+Hi 👋, Ogallo Joshua Odero
 </h1>
 
 
