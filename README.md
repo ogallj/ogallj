@@ -118,6 +118,7 @@ I love turning complex business ideas into elegant digital experiences.
 - User Research
 - Prototyping
 - Design Thinking
+- 
 
 ---
 
